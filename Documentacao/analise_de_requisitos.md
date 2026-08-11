@@ -1,15 +1,5 @@
 # Ficha de Requisitos – FlowOps
 
-## 1. Cenário / Problema
-
-Atualmente, muitas equipes têm dificuldades para organizar e acompanhar as atividades que precisam ser realizadas. As demandas podem chegar por diferentes meios, como mensagens, e-mails e reuniões, causando problemas na comunicação e no acompanhamento.
-
-Com isso, pode acontecer de uma atividade não ter um responsável definido, um prazo não ser cumprido ou o stakeholder não saber como está o andamento da solicitação.
-
-O FlowOps foi pensado para centralizar essas demandas e organizar o fluxo de trabalho da equipe.
-
----
-
 ## 2. Stakeholders Envolvidos
 
 Os principais stakeholders do sistema são:
