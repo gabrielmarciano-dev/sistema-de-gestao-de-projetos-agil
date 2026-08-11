@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="./assets/flowops-logo.png" alt="FlowOps" width="500">
+<img src="./assets/flowops-logo.png" alt="FlowOps" width="420">
 
-<h1>FlowOps</h1>
+# FlowOps
 
-<p>Sistema para organização e acompanhamento de demandas.</p>
+Sistema para organização e acompanhamento de demandas.
+
+[Documentação](#documentação) · [Como funciona](#como-funciona) · [Funcionalidades](#funcionalidades-principais)
 
 </div>
 
@@ -24,7 +26,19 @@ O FlowOps busca centralizar essas informações em um único lugar, facilitando 
 
 O fluxo principal do FlowOps é:
 
-**Stakeholder solicita → Gestor distribui → Colaborador executa → Teste → Stakeholder valida → Concluído**
+```text
+Stakeholder solicita
+        ↓
+Gestor distribui
+        ↓
+Colaborador executa
+        ↓
+Teste
+        ↓
+Stakeholder valida
+        ↓
+Concluído
+```
 
 O Stakeholder cadastra uma demanda informando o que precisa ser feito, a prioridade e o prazo.
 
@@ -32,13 +46,29 @@ Depois, o gestor pode distribuir a atividade para um colaborador utilizando sua 
 
 O colaborador recebe a atividade e atualiza seu andamento conforme o trabalho é realizado.
 
-As atividades passam pelas etapas:
+### Fluxo das atividades
 
-**A Fazer → Em Desenvolvimento → Em Teste → Em Validação → Concluído**
+```text
+A Fazer
+   ↓
+Em Desenvolvimento
+   ↓
+Em Teste
+   ↓
+Em Validação
+   ↓
+Concluído
+```
 
 Caso a atividade precise de ajustes:
 
-**Em Validação → Ajustes necessários → Em Desenvolvimento**
+```text
+Em Validação
+      ↓
+Ajustes necessários
+      ↓
+Em Desenvolvimento
+```
 
 ---
 
@@ -147,49 +177,14 @@ As demandas podem possuir quatro níveis de prioridade:
 
 ## Documentação
 
-A documentação do projeto está organizada na pasta **Documentacao**.
+A documentação do projeto está organizada na pasta `Documentacao`.
 
-<div align="center">
-
-<a href="./Documentacao/Analise_de_negocio.md">
-<img src="https://img.shields.io/badge/📊%20Análise%20de%20Negócio-2563EB?style=for-the-badge" alt="Análise de Negócio">
-</a>
-
-<br><br>
-
-<a href="./Documentacao/Elicitacao_e_escopo.md">
-<img src="https://img.shields.io/badge/📋%20Elicitação%20e%20Escopo-7C3AED?style=for-the-badge" alt="Elicitação e Escopo">
-</a>
-
-<br><br>
-
-<a href="./Documentacao/analise_de_requisitos.md">
-<img src="https://img.shields.io/badge/⚙️%20Análise%20de%20Requisitos-059669?style=for-the-badge" alt="Análise de Requisitos">
-</a>
-
-<br><br>
-
-<a href="./Documentacao/Validacao_da_solucao.md">
-<img src="https://img.shields.io/badge/✅%20Validação%20da%20Solução-DC2626?style=for-the-badge" alt="Validação da Solução">
-</a>
-
-</div>
-
-### 📊 Análise de Negócio
-
-Documento relacionado ao problema, contexto e necessidades do projeto.
-
-### 📋 Elicitação e Escopo
-
-Documento relacionado ao levantamento das necessidades e definição do escopo.
-
-### ⚙️ Análise de Requisitos
-
-Documento com os requisitos levantados para o FlowOps.
-
-### ✅ Validação da Solução
-
-Documento relacionado à validação da proposta de solução.
+| Documento                                                        | Descrição                                            |
+| ---------------------------------------------------------------- | ---------------------------------------------------- |
+| [Análise de Negócio](./Documentacao/Analise_de_negocio.md)       | Problema, contexto e necessidades do projeto.        |
+| [Elicitação e Escopo](./Documentacao/Elicitacao_e_escopo.md)     | Levantamento das necessidades e definição do escopo. |
+| [Análise de Requisitos](./Documentacao/analise_de_requisitos.md) | Requisitos levantados para o FlowOps.                |
+| [Validação da Solução](./Documentacao/Validacao_da_solucao.md)   | Validação da proposta de solução.                    |
 
 ---
 
@@ -197,15 +192,7 @@ Documento relacionado à validação da proposta de solução.
 
 O projeto também possui um mapa mental com informações complementares.
 
-<div align="center">
-
-<a href="https://miro.com/welcomeonboard/L1RRcGI5cnpibitWb3NEdS9acVR3bmpNSHdkZXFxd3greWpsMkI2NjJYRmFsMjA2UHFqdHVuZUFudEVkYkpPUHRkQXBja1lJRTBOZC80ZXBEOFZiYkt4QjZhR3RWQVVOYno2aTNPUVZXWXcxQXhpTkVPOCtxcE56THNkb3MraWI3QTNVZXpxSXBObEppZ0UxYUMzQnV3PT0hdjE=?share_link_id=704984603715">
-
-<img src="https://img.shields.io/badge/🧠%20Acessar%20Mapa%20Mental%20no%20Miro-FF6B35?style=for-the-badge" alt="Acessar Mapa Mental no Miro">
-
-</a>
-
-</div>
+[**Acessar mapa mental no Miro →**](https://miro.com/welcomeonboard/L1RRcGI5cnpibitWb3NEdS9acVR3bmpNSHdkZXFxd3greWpsMkI2NjJYRmFsMjA2UHFqdHVuZUFudEVkYkpPUHRkQXBja1lJRTBOZC80ZXBEOFZiYkt4QjZhR3RWQVVOYno2aTNPUVZXWXcxQXhpTkVPOCtxcE56THNkb3MraWI3QTNVZXpxSXBObEppZ0UxYUMzQnV3PT0hdjE=?share_link_id=704984603715)
 
 ---
 
@@ -225,3 +212,59 @@ FlowOps/
 │
 └── readme.md
 ```
+
+---
+
+## Fluxo resumido
+
+```text
+                    ┌─────────────────────┐
+                    │     Stakeholder     │
+                    │     Solicita        │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │       Gestor        │
+                    │     Distribui       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    Colaborador      │
+                    │      Executa        │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │        Teste        │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     Stakeholder     │
+                    │      Valida         │
+                    └──────────┬──────────┘
+                               │
+                         ┌─────┴─────┐
+                         │           │
+                         ▼           ▼
+                    Aprovado     Reprovado
+                         │           │
+                         ▼           │
+                    Concluído        │
+                                     │
+                                     ▼
+                              Ajustes necessários
+                                     │
+                                     ▼
+                              Desenvolvimento
+```
+
+---
+
+<div align="center">
+
+FlowOps — Sistema para organização e acompanhamento de demandas.
+
+</div>
