@@ -48,12 +48,12 @@ O principal objetivo do FlowOps é diminuir a desorganização no ambiente de tr
 
 Com isso, a equipe pode ter uma visão melhor sobre:
 
-- Responsável por cada atividade;
-- Prazo de entrega;
-- Prioridade;
-- Andamento;
-- Atividades atrasadas;
-- Demandas concluídas.
+* Responsável por cada atividade;
+* Prazo de entrega;
+* Prioridade;
+* Andamento;
+* Atividades atrasadas;
+* Demandas concluídas.
 
 ---
 
@@ -65,13 +65,13 @@ Responsável por solicitar e acompanhar as demandas.
 
 Pode:
 
-- Criar demandas;
-- Informar descrição;
-- Definir prazo;
-- Definir prioridade;
-- Acompanhar o andamento;
-- Adicionar comentários;
-- Validar a entrega.
+* Criar demandas;
+* Informar descrição;
+* Definir prazo;
+* Definir prioridade;
+* Acompanhar o andamento;
+* Adicionar comentários;
+* Validar a entrega.
 
 ### Gestor
 
@@ -79,13 +79,13 @@ Responsável por organizar e distribuir as demandas.
 
 Pode:
 
-- Visualizar demandas da equipe;
-- Distribuir atividades;
-- Definir responsáveis através da matrícula;
-- Acompanhar prazos;
-- Identificar atividades atrasadas;
-- Acompanhar o andamento;
-- Reorganizar prioridades.
+* Visualizar demandas da equipe;
+* Distribuir atividades;
+* Definir responsáveis através da matrícula;
+* Acompanhar prazos;
+* Identificar atividades atrasadas;
+* Acompanhar o andamento;
+* Reorganizar prioridades.
 
 ### Desenvolvedor / Colaborador
 
@@ -93,25 +93,25 @@ Responsável pela execução das atividades.
 
 Pode:
 
-- Visualizar suas atividades;
-- Consultar prazo e descrição;
-- Ver a prioridade;
-- Atualizar o status;
-- Adicionar comentários;
-- Anexar arquivos;
-- Enviar a atividade para validação.
+* Visualizar suas atividades;
+* Consultar prazo e descrição;
+* Ver a prioridade;
+* Atualizar o status;
+* Adicionar comentários;
+* Anexar arquivos;
+* Enviar a atividade para validação.
 
 ---
 
 ## Status das atividades
 
-| Status | Descrição |
-|---|---|
-| **A Fazer** | Atividade cadastrada e ainda não iniciada. |
-| **Em Desenvolvimento** | Atividade em execução pelo colaborador. |
-| **Em Teste** | Atividade desenvolvida aguardando testes. |
-| **Em Validação** | Atividade aguardando aprovação do Stakeholder. |
-| **Concluído** | Atividade aprovada e finalizada. |
+| Status                 | Descrição                                      |
+| ---------------------- | ---------------------------------------------- |
+| **A Fazer**            | Atividade cadastrada e ainda não iniciada.     |
+| **Em Desenvolvimento** | Atividade em execução pelo colaborador.        |
+| **Em Teste**           | Atividade desenvolvida aguardando testes.      |
+| **Em Validação**       | Atividade aguardando aprovação do Stakeholder. |
+| **Concluído**          | Atividade aprovada e finalizada.               |
 
 ---
 
@@ -119,29 +119,29 @@ Pode:
 
 As demandas podem possuir quatro níveis de prioridade:
 
-- **Crítica**
-- **Alta**
-- **Média**
-- **Baixa**
+* **Crítica**
+* **Alta**
+* **Média**
+* **Baixa**
 
 ---
 
 ## Funcionalidades principais
 
-- Cadastro de usuários;
-- Cadastro de demandas;
-- Definição de prioridade;
-- Definição de prazo;
-- Distribuição de atividades;
-- Controle de status;
-- Acompanhamento das demandas;
-- Comentários;
-- Anexos;
-- Histórico de alterações;
-- Identificação de atrasos;
-- Validação das entregas;
-- Retorno para desenvolvimento;
-- Visualização em quadro Kanban.
+* Cadastro de usuários;
+* Cadastro de demandas;
+* Definição de prioridade;
+* Definição de prazo;
+* Distribuição de atividades;
+* Controle de status;
+* Acompanhamento das demandas;
+* Comentários;
+* Anexos;
+* Histórico de alterações;
+* Identificação de atrasos;
+* Validação das entregas;
+* Retorno para desenvolvimento;
+* Visualização em quadro Kanban.
 
 ---
 
@@ -149,27 +149,45 @@ As demandas podem possuir quatro níveis de prioridade:
 
 A documentação do projeto está organizada na pasta **Documentacao**.
 
-### Análise de Negócio
+<div align="center">
 
-[Visualizar Análise de Negócio](./Documentacao/Analise_de_negocio.md)
+<a href="./Documentacao/Analise_de_negocio.md">
+<img src="https://img.shields.io/badge/📊%20Análise%20de%20Negócio-2563EB?style=for-the-badge" alt="Análise de Negócio">
+</a>
+
+<br><br>
+
+<a href="./Documentacao/Elicitacao_e_escopo.md">
+<img src="https://img.shields.io/badge/📋%20Elicitação%20e%20Escopo-7C3AED?style=for-the-badge" alt="Elicitação e Escopo">
+</a>
+
+<br><br>
+
+<a href="./Documentacao/analise_de_requisitos.md">
+<img src="https://img.shields.io/badge/⚙️%20Análise%20de%20Requisitos-059669?style=for-the-badge" alt="Análise de Requisitos">
+</a>
+
+<br><br>
+
+<a href="./Documentacao/Validacao_da_solucao.md">
+<img src="https://img.shields.io/badge/✅%20Validação%20da%20Solução-DC2626?style=for-the-badge" alt="Validação da Solução">
+</a>
+
+</div>
+
+### 📊 Análise de Negócio
 
 Documento relacionado ao problema, contexto e necessidades do projeto.
 
-### Elicitação e Escopo
-
-[Visualizar Elicitação e Escopo](./Documentacao/Elicitacao_e_escopo.md)
+### 📋 Elicitação e Escopo
 
 Documento relacionado ao levantamento das necessidades e definição do escopo.
 
-### Análise de Requisitos
-
-[Visualizar Análise de Requisitos](./Documentacao/analise_de_requisitos.md)
+### ⚙️ Análise de Requisitos
 
 Documento com os requisitos levantados para o FlowOps.
 
-### Validação da Solução
-
-[Visualizar Validação da Solução](./Documentacao/Validacao_da_solucao.md)
+### ✅ Validação da Solução
 
 Documento relacionado à validação da proposta de solução.
 
@@ -179,7 +197,15 @@ Documento relacionado à validação da proposta de solução.
 
 O projeto também possui um mapa mental com informações complementares.
 
-[**Acessar Mapa Mental no Miro**](https://miro.com/welcomeonboard/L1RRcGI5cnpibitWb3NEdS9acVR3bmpNSHdkZXFxd3greWpsMkI2NjJYRmFsMjA2UHFqdHVuZUFudEVkYkpPUHRkQXBja1lJRTBOZC80ZXBEOFZiYkt4QjZhR3RWQVVOYno2aTNPUVZXWXcxQXhpTkVPOCtxcE56THNkb3MraWI3QTNVZXpxSXBObEppZ0UxYUMzQnV3PT0hdjE=?share_link_id=704984603715)
+<div align="center">
+
+<a href="https://miro.com/welcomeonboard/L1RRcGI5cnpibitWb3NEdS9acVR3bmpNSHdkZXFxd3greWpsMkI2NjJYRmFsMjA2UHFqdHVuZUFudEVkYkpPUHRkQXBja1lJRTBOZC80ZXBEOFZiYkt4QjZhR3RWQVVOYno2aTNPUVZXWXcxQXhpTkVPOCtxcE56THNkb3MraWI3QTNVZXpxSXBObEppZ0UxYUMzQnV3PT0hdjE=?share_link_id=704984603715">
+
+<img src="https://img.shields.io/badge/🧠%20Acessar%20Mapa%20Mental%20no%20Miro-FF6B35?style=for-the-badge" alt="Acessar Mapa Mental no Miro">
+
+</a>
+
+</div>
 
 ---
 
@@ -198,3 +224,4 @@ FlowOps/
 │   └── Validacao_da_solucao.md
 │
 └── readme.md
+```
