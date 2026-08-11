@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O FlowOps é uma ideia de sistema para ajudar equipes a organizar melhor suas atividades e demandas.
+O FlowOps é uma ideia de sistema para ajudar a equipe e organizar melhor suas atividades e demandas.
 
 A ideia surgiu a partir de um problema comum: muitas vezes as tarefas são passadas por mensagens, e-mails ou conversas, o que pode causar confusão sobre quem deve fazer cada atividade e qual é o prazo para entrega.
 
@@ -10,15 +10,13 @@ O sistema funcionaria de forma parecida com um quadro de tarefas, como o Trello,
 
 ## Como funcionaria
 
-O Stakeholder cadastra uma atividade no sistema, informando o que precisa ser feito, a prioridade e o prazo.
+O Stakeholder cadastra uma atividade no sistema, informando o que precisa ser feito, a prioridade e o prazo..
 
-Depois, o gestor pode distribuir essa atividade para um funcionário através da sua matrícula. O responsável recebe a tarefa e pode acompanhar e atualizar seu andamento.
+Depois, o gestor pode distribuir essa atividade para um funcionário através da sua matrícula. O desenvolvedor recebe a tarefa e pode acompanhar e atualizar seu andamento.
 
-As atividades poderiam passar por etapas como:
+As atividades passam por etapas como:
 
 **A Fazer → Em Desenvolvimento → Em Teste → Em Validação → Concluído**
-
-Dessa forma, todos conseguem saber o que está sendo feito, quem é o responsável e qual é a situação da atividade.
 
 ## Objetivo
 
