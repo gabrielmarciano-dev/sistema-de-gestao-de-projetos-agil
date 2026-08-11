@@ -31,6 +31,8 @@ Os principais stakeholders do sistema são:
 * Propor maneiras de organição de projetos com base em métodos ágeis.
 * Aba de backlog, status de desenvolvimento e conclusão.
 * Com base no método ágil, implementação de reuniões diárias.
-*  
+* 
+* Reunião pós período de desenvolvimento onde são falados feedbacks do que melhorar.
+
   
 
