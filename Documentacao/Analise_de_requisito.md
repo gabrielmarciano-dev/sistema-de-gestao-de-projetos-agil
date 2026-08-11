@@ -134,7 +134,7 @@ Os usuários deverão receber orientações básicas sobre a utilização do sis
 
 ---
 
-# 4.0 Priorização
+## 4.0 Priorização
 
 Os requisitos serão classificados em três níveis: **Essenciais, Importantes e Desejáveis**.
 
