@@ -1,6 +1,6 @@
-<center><h1>Análise de Requisitos</h1></center>
----
-
+<div align="center">
+  <h1>Análise de Requisitos</h1>
+</div>
 
 ## 2. Stakeholders Envolvidos
 
