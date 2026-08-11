@@ -29,6 +29,8 @@ Os principais stakeholders do sistema são:
 ### Etapa 1 - BABOK - Planejamento e monitoramento da análise de negócios
 * Entrevista com stakeholder.
 * Propor maneiras de organição de projetos com base em métodos ágeis.
-* Aba de backlog, status de desenvolvimento e conclusão
+* Aba de backlog, status de desenvolvimento e conclusão.
+* Com base no método ágil, implementação de reuniões diárias.
+*  
   
 
