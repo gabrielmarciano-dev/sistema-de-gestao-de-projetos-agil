@@ -2,7 +2,7 @@
   <h1>Validação da Solução</h1>
 </div>
 
-## 9. Resumo da Solução
+## 1.0 Resumo da Solução
 
 O FlowOps tem como principal proposta organizar o caminho de uma demanda desde sua solicitação até sua conclusão.
 
