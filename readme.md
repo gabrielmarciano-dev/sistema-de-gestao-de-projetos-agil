@@ -6,7 +6,7 @@
 
 Sistema para organização e acompanhamento de demandas.
 
-[Documentação](#documentação) · [Como funciona](#como-funciona) · [Funcionalidades](#funcionalidades-principais)
+[Documentação](#documentação) · [Como funciona](#como-funciona) · [Funcionalidades](#funcionalidades-principais) · [Demonstração](#demonstração)
 
 </div>
 
@@ -69,6 +69,18 @@ Ajustes necessários
       ↓
 Em Desenvolvimento
 ```
+
+---
+
+## Demonstração
+
+Abaixo está uma demonstração do funcionamento do FlowOps.
+
+<div align="center">
+
+<img src="./assets/flowops-demo.gif" alt="Demonstração do FlowOps" width="900">
+
+</div>
 
 ---
 
@@ -202,7 +214,8 @@ O projeto também possui um mapa mental com informações complementares.
 FlowOps/
 │
 ├── assets/
-│   └── flowops-logo.png
+│   ├── flowops-logo.png
+│   └── flowops-demo.gif
 │
 ├── Documentacao/
 │   ├── Analise_de_negocio.md
@@ -210,7 +223,7 @@ FlowOps/
 │   ├── Elicitacao_e_escopo.md
 │   └── Validacao_da_solucao.md
 │
-└── readme.md
+└── README.md
 ```
 
 ---
@@ -220,7 +233,7 @@ FlowOps/
 ```text
                     ┌─────────────────────┐
                     │     Stakeholder     │
-                    │     Solicita        │
+                    │      Solicita       │
                     └──────────┬──────────┘
                                │
                                ▼
@@ -243,7 +256,7 @@ FlowOps/
                                ▼
                     ┌─────────────────────┐
                     │     Stakeholder     │
-                    │      Valida         │
+                    │       Valida        │
                     └──────────┬──────────┘
                                │
                          ┌─────┴─────┐
@@ -259,6 +272,12 @@ FlowOps/
                                      │
                                      ▼
                               Desenvolvimento
+                                     │
+                                     ▼
+                                   Teste
+                                     │
+                                     ▼
+                                 Validação
 ```
 
 ---
