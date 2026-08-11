@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/flowops-logo.gif" alt="FlowOps" width="420">
+<img src="./assets/flowops-logo.png" alt="FlowOps" width="420">
 
 # FlowOps
 
@@ -203,7 +203,7 @@ FlowOps/
 │
 ├── assets/
 │   ├── flowops-logo.png
-│   └── flowops-logo.gif
+│   └── flowops.gif
 │
 ├── Documentacao/
 │   ├── Analise_de_negocio.md
@@ -267,6 +267,16 @@ FlowOps/
                                      ▼
                                  Validação
 ```
+
+---
+
+## FlowOps
+
+<div align="center">
+
+<img src="./assets/flowops.gif" alt="FlowOps" width="700">
+
+</div>
 
 ---
 
