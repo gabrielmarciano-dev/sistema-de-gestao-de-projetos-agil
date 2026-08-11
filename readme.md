@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/flowops-logo.png" alt="FlowOps" width="420">
+<img src="./assets/flowops-logo.gif" alt="FlowOps" width="420">
 
 # FlowOps
 
 Sistema para organização e acompanhamento de demandas.
 
-[Documentação](#documentação) · [Como funciona](#como-funciona) · [Funcionalidades](#funcionalidades-principais) · [Demonstração](#demonstração)
+[Documentação](#documentação) · [Como funciona](#como-funciona) · [Funcionalidades](#funcionalidades-principais)
 
 </div>
 
@@ -69,18 +69,6 @@ Ajustes necessários
       ↓
 Em Desenvolvimento
 ```
-
----
-
-## Demonstração
-
-Abaixo está uma demonstração do funcionamento do FlowOps.
-
-<div align="center">
-
-<img src="./assets/flowops-demo.gif" alt="Demonstração do FlowOps" width="900">
-
-</div>
 
 ---
 
@@ -215,7 +203,7 @@ FlowOps/
 │
 ├── assets/
 │   ├── flowops-logo.png
-│   └── flowops-demo.gif
+│   └── flowops-logo.gif
 │
 ├── Documentacao/
 │   ├── Analise_de_negocio.md
@@ -233,13 +221,13 @@ FlowOps/
 ```text
                     ┌─────────────────────┐
                     │     Stakeholder     │
-                    │      Solicita       │
+                    │       Solicita      │
                     └──────────┬──────────┘
                                │
                                ▼
                     ┌─────────────────────┐
                     │       Gestor        │
-                    │     Distribui       │
+                    │      Distribui      │
                     └──────────┬──────────┘
                                │
                                ▼
