@@ -19,6 +19,7 @@ As atividades passam por etapas como:
 **A Fazer → Em Desenvolvimento → Em Teste → Em Validação → Concluído**
 
 ##Mapa Mental para visualização de mais informações:
+
 [Mapa Mental | Miro](https://miro.com/welcomeonboard/L1RRcGI5cnpibitWb3NEdS9acVR3bmpNSHdkZXFxd3greWpsMkI2NjJYRmFsMjA2UHFqdHVuZUFudEVkYkpPUHRkQXBja1lJRTBOZC80ZXBEOFZiYkt4QjZhR3RWQVVOYno2aTNPUVZXWXcxQXhpTkVPOCtxcE56THNkb3MraWI3QTNVZXpxSXBObEppZ0UxYUMzQnV3PT0hdjE=?share_link_id=704984603715)
 
 ## Objetivo
