@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Elicitação e Escopo</h1>
 </div>
-## 1. Requisitos das Partes Interessadas
+
 
 ### 1.1 Stakeholder / Solicitante
 
