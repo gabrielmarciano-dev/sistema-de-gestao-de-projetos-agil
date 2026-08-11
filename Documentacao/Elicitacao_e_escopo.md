@@ -3,7 +3,7 @@
 </div>
 
 
-## 1.1 Stakeholder / Solicitante
+## 1.0 Stakeholder / Solicitante
 
 O stakeholder precisa:
 
@@ -16,7 +16,7 @@ O stakeholder precisa:
 * Adicionar comentários;
 * Validar a atividade após sua conclusão.
 
-## 1.2 Gestor
+## 2.0 Gestor
 
 O gestor precisa:
 
@@ -29,7 +29,7 @@ O gestor precisa:
 * Acompanhar o andamento geral das demandas;
 * Reorganizar prioridades quando necessário.
 
-## 1.3 Desenvolvedor / Colaborador
+## 3.0 Desenvolvedor / Colaborador
 
 O colaborador precisa:
 
