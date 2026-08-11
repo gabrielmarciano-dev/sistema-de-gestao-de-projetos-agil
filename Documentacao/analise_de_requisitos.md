@@ -1,25 +1,6 @@
 <div align="center">
   <h1>Análise de Requisitos</h1>
 </div>
-
-## 3. Requisitos de Negócio
-
-O sistema deve contribuir para:
-
-* Centralizar as demandas em um único lugar;
-* Melhorar a comunicação entre stakeholders, gestores e equipes;
-* Reduzir o número de atividades esquecidas ou atrasadas;
-* Melhorar a organização das tarefas;
-* Facilitar o acompanhamento dos projetos;
-* Aumentar a visibilidade sobre o trabalho da equipe;
-* Melhorar o controle dos prazos e responsáveis.
-
----
-
-
-
----
-
 # 5. Requisitos da Solução
 
 ## 5.1 Requisitos Funcionais
