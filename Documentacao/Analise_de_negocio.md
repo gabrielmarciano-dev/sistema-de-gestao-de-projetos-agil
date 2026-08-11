@@ -26,4 +26,7 @@ Os principais stakeholders do sistema são:
 
 ## 3.0 Planejamento
 
+### Etapa 1 - BABOK - Planejamento e monitoramento da análise de negócios
+* Entrevista com stakeholder.
+*  
 
