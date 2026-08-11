@@ -274,7 +274,7 @@ FlowOps/
 
 <div align="center">
 
-<img src="./assets/flowops.gif" alt="FlowOps" width="700">
+<img src="./assets/flowops-demo.gif" alt="FlowOps" width="700">
 
 </div>
 
