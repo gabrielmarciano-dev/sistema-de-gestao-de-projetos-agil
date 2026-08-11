@@ -2,7 +2,7 @@
   <h1>Validação da Solução</h1>
 </div>
 
-# 1.0 Requisitos Funcionais
+## 1.0 Requisitos Funcionais
 
 ### RF01 – Cadastro de usuários
 
