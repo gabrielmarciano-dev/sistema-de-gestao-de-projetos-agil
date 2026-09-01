@@ -64,4 +64,4 @@ Requisitos que definem **características mensuráveis e verificáveis** que o s
 | RQ04 | Confiabilidade | Uptime ≥ 99% |
 | RQ05 | Compatibilidade | Chrome / Edge / Safari |
 
-[Requisitos Funcionais](requisitos-funcionais.md) · [Voltar ao README](../README.md) · [Próximo: Restrições](restricoes.md)
+[Requisitos Funcionais](Requisitos funcionais.md) · [Voltar ao README](../README.md) · [Próximo: Restrições](restricoes.md)
