@@ -1,6 +1,6 @@
 # Matriz de Rastreabilidade
 
-[Voltar ao README](../README.md)
+[Voltar ao README](../readme.md)
 
 Relaciona cada requisito à sua necessidade de origem e ao stakeholder correspondente, garantindo rastreabilidade do início ao fim do processo de levantamento.
 
