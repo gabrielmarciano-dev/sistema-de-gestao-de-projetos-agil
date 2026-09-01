@@ -179,13 +179,19 @@ As demandas podem possuir quatro níveis de prioridade:
 
 A documentação do projeto está organizada na pasta `Documentacao`.
 
-| Documento                                                        | Descrição                                            |
-| ---------------------------------------------------------------- | ---------------------------------------------------- |
-| [Análise de Negócio](./Documentacao/Analise_de_negocio.md)       | Problema, contexto e necessidades do projeto.        |
-| [Elicitação e Escopo](./Documentacao/Elicitacao_e_escopo.md)     | Levantamento das necessidades e definição do escopo. |
-| [Análise de Requisitos](./Documentacao/analise_de_requisitos.md) | Requisitos levantados para o FlowOps.                |
-| [Validação da Solução](./Documentacao/Validacao_da_solucao.md)   | Validação da proposta de solução.                    |
-
+| Documento                                                                | Descrição                                                    |
+| -------------------------------------------------------------------------| ------------------------------------------------------------ |
+| [Análise de Negócio](./Documentacao/Analise_de_negocio.md)               | Problema, contexto e necessidades do projeto.                |
+| [Análise de Requisitos](./Documentacao/Analise_de_requisito.md)          | Requisitos levantados para o FlowOps.                        |
+| [Elicitação e Escopo](./Documentacao/Elicitacao_e_escopo.md)             | Levantamento das necessidades e definição do escopo.         |
+| [Requisitos de Qualidade](./Documentacao/Requisitos%20de%20Qualidade.md) | Atributos de qualidade e requisitos não funcionais.          |
+| [Requisitos Funcionais](./Documentacao/Requisitos%20funcionais.md)       | Mapeamento detalhado das funcionalidades do sistema.         |
+| [Stakeholders](./Documentacao/Stakeholders.md)                           | Identificação e análise das partes interessadas do projeto.  |
+| [Validação da Solução](./Documentacao/Validacao_da_solucao.md)           | Validação da proposta de solução.                            |
+| [Matriz de Rastreabilidade](./Documentacao/matriz-rastreabilidade.md)    | Mapeamento e rastreabilidade entre requisitos e entregáveis. |
+| [Regras de Negócio](./Documentacao/regras-negocio.md)                    | Definição das políticas e regras de negócio do sistema.      |
+| [Restrições](./Documentacao/restricoes.md)                               | Limitações e restrições técnicas ou operacionais do projeto. |
+| [Revisão e Checklist](./Documentacao/revisao-e-checklist.md)             | Critérios de revisão e checklists de qualidade das entregas. |
 ---
 
 ## Mapa Mental
