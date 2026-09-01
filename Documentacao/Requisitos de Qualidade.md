@@ -1,6 +1,6 @@
 # Requisitos de Qualidade (RQ)
 
-[Voltar ao README](./README.md)
+[Voltar ao README](../readme.md)
 
 Requisitos que definem **características mensuráveis e verificáveis** que o sistema deve apresentar, além de funcionar corretamente. Termos vagos (ex: "rápido", "seguro", "fácil de usar") foram eliminados na revisão por pares — ver [Revisão por pares](revisao-e-checklist.md).
 
