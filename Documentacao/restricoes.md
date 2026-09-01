@@ -1,6 +1,6 @@
 # Restrições (RES)
 
-[Voltar ao README](../README.md)
+[Voltar ao README](../readme.md)
 
 Limitações impostas ao projeto relacionadas a tecnologia, prazo e aspectos legais.
 
