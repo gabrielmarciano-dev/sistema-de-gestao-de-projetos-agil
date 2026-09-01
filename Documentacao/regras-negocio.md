@@ -1,6 +1,6 @@
 # Regras de Negócio (RN)
 
-[Voltar ao README](../README.md)
+[Voltar ao README](../readme.md)
 
 Políticas e normas do domínio que definem ou restringem o comportamento do negócio, independentemente da implementação técnica.
 
