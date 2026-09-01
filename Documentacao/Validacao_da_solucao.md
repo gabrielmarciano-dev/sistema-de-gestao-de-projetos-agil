@@ -13,3 +13,5 @@ Em resumo:
 **Stakeholder solicita → Gestor distribui → Colaborador executa → Stakeholder valida → Demanda é concluída.**
 
 O sistema pretende tornar esse processo mais simples, organizado e transparente.
+
+[Voltar ao README](../readme.md)
