@@ -1,4 +1,4 @@
-# Stakeholders e Levantamento de Necessidades
+# Stakeholders e Levantamento de 
 
 [Voltar ao README](../README.md)
 
