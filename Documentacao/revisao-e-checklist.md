@@ -1,6 +1,6 @@
 # Revisão por Pares e Checklist de Qualidade
 
-[Voltar ao README](../README.md)
+[Voltar ao README](../readme.md)
 
 ---
 
