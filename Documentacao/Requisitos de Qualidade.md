@@ -54,7 +54,7 @@ Requisitos que definem **características mensuráveis e verificáveis** que o s
 
 ---
 
-### **Resumo**
+### *Resumo:*
 
 | ID | Característica | Métrica-chave |
 |---|---|---|
