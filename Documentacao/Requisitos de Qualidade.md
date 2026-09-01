@@ -12,7 +12,7 @@ Requisitos que definem **características mensuráveis e verificáveis** que o s
 |---|---|
 | **Requisito mensurável** | O sistema deve exibir os horários disponíveis em no máximo **2 segundos** para **95%** das requisições. |
 | **Como verificar** | Testes de carga com **Apache JMeter**, simulando 100 acessos simultâneos. |
-| **Requisito funcional relacionado** | [RF02](requisitos-funcionais.md#rf02--consulta-de-horários-disponíveis) |
+| **Requisito funcional relacionado** | [RF02](requisitos-funcionais.md#RF02--consulta-de-horários-disponíveis) |
 
 ---
 
