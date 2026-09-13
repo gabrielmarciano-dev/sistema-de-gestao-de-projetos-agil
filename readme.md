@@ -4,7 +4,7 @@
 
 # FlowOps
 
-Sistema para organização e acompanhamento de demandas.
+Sistema de agendamento e gestão de consultas médicas.        
 
 [Documentação](#documentação) · [Como funciona](#como-funciona) · [Funcionalidades](#funcionalidades-principais)
 
