@@ -21,7 +21,14 @@ A ideia surgiu a partir de um problema comum: muitas vezes as tarefas são passa
 O FlowOps busca centralizar essas informações em um único lugar, facilitando a comunicação entre quem solicita, quem gerencia e quem executa as atividades.
 
 ---
-
+## Integrantes
+* AUGUSTO ALEJANDRO 22610248
+* DANIEL OLIVEIRA 22608768
+* DANILO ANDRADE 22612605
+* ELTON LOPES 22609107
+* GABRIEL MARCIANO 22609250
+* RAFAEL C. BARROS 22606811
+---
 ## Como funciona
 
 O fluxo principal do FlowOps é:
