@@ -143,3 +143,4 @@ A equipe de engenharia de software deve priorizar as características de qualida
 4. **Estratégia de teste:** *"Execução de testes de resiliência e engenharia do caos (Chaos Engineering), simulando a queda de nós do servidor principal para validar a transição automática para o ambiente de failover."*
 
 ---
+[Voltar ao README](../readme.md)
