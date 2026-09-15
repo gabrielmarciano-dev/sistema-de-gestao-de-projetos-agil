@@ -1,6 +1,6 @@
 # Restrições (RES)
 
-[Voltar ao README](../readme.md)
+
 
 Limitações impostas ao projeto relacionadas a tecnologia, prazo e aspectos legais.
 
@@ -45,4 +45,4 @@ Limitações impostas ao projeto relacionadas a tecnologia, prazo e aspectos leg
 | RES02 | Entrega até o prazo do cronograma | Prazo |
 | RES03 | Conformidade com a LGPD | Legal |
 
-[Requisitos de Qualidade](requisitos-qualidade.md) · [Voltar ao README](../README.md) · [Próximo: Regras de Negócio](regras-negocio.md)
+[Voltar ao README](../readme.md)
