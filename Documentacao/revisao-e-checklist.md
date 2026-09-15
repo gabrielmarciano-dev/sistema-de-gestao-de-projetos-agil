@@ -1,6 +1,5 @@
 # Revisão por Pares e Checklist de Qualidade
 
-[Voltar ao README](../readme.md)
 
 ---
 
@@ -44,4 +43,4 @@ Sim, o requisito de permissão para bloqueio manual de horários na agenda pelos
 
 > **Orientação da etapa:** o foco não é projetar telas nem escolher tecnologias. O objetivo é compreender e registrar o que é necessário para resolver o problema, mantendo os requisitos claros, verificáveis e rastreáveis às necessidades dos stakeholders.
 
-[Stakeholders](stakeholders.md) · [Voltar ao README](../README.md)
+[Voltar ao README](../readme.md)
