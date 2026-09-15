@@ -1,6 +1,5 @@
 # Stakeholders e Levantamento de Necessidades
 
-[Voltar ao README](../readme.md)
 
 ---
 
@@ -69,6 +68,6 @@ Reduzir o tempo de espera no agendamento, automatizar lembretes para diminuir fa
 | N07 | Equipe de TI | Proteção de dados em conformidade com a LGPD. | Riscos de vazamento de informações sensíveis. |
 | N08 | Paciente | Cancelamento simplificado via plataforma. | Necessidade de ligar apenas para cancelar. |
 
-Cada necessidade acima está mapeada para um ou mais [Requisitos Funcionais](requisitos-funcionais.md).
+Cada necessidade acima está mapeada para um ou mais [Requisitos Funcionais](Requisitos-funcionais.md).
 
-[Regras de Negócio](regras-negocio.md) · [Voltar ao README](../README.md) · [Próximo: Revisão e Checklist](revisao-e-checklist.md)
+[Voltar ao README](../readme.md)
