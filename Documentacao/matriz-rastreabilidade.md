@@ -1,6 +1,5 @@
 # Matriz de Rastreabilidade
 
-[Voltar ao README](../readme.md)
 
 Relaciona cada requisito à sua necessidade de origem e ao stakeholder correspondente, garantindo rastreabilidade do início ao fim do processo de levantamento.
 
@@ -17,4 +16,4 @@ Relaciona cada requisito à sua necessidade de origem e ao stakeholder correspon
 | [RQ03](requisitos-qualidade.md#rq03--usabilidade--interação) | Atendimento rigoroso aos termos legais da LGPD. | Funcional / Qualidade / Restrição | ST04 – Administrador | Alta |
 | [RN01](regras-negocio.md#rn01--proibição-de-horários-coincidentes) | Proibição de marcações simultâneas para o mesmo paciente. | Regra de Negócio | ST04 – Administrador | Alta |
 
-[Stakeholders](stakeholders.md) · [Voltar ao README](../README.md)
+ [Voltar ao README](../README.md)
