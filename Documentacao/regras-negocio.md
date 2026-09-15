@@ -44,4 +44,3 @@ Políticas e normas do domínio que definem ou restringem o comportamento do neg
 | RN02 | Cancelamento gratuito até 24h antes | Administrador |
 | RN03 | Cadastro ativo obrigatório para marcação online | Recepcionista |
 
-[Restrições](restricoes.md) · [Voltar ao README](../README.md) · [Próximo: Stakeholders](stakeholders.md)
