@@ -1,6 +1,5 @@
 # Requisitos Funcionais (RF)
 
-[Voltar ao README](../readme.md)
 
 Requisitos que descrevem **o que o sistema deve permitir que os usuários façam**. Cada requisito é atômico, rastreável a uma necessidade de stakeholder e priorizado segundo seu impacto no problema central.
 
