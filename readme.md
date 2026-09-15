@@ -14,7 +14,7 @@ Sistema de agendamento e gestão de consultas médicas.
 
 ## Sobre o projeto
 
-O **FlowOps** é uma proposta de sistema para ajudar equipes a organizar melhor suas atividades e demandas.
+O **FlowOps** é uma proposta de sistema para ajudar no agendamento e gestão de consultas médicas, organizando melhor suas atividades e demandas.
 
 A ideia surgiu a partir de um problema comum: muitas vezes as tarefas são passadas por mensagens, e-mails ou conversas, o que pode causar confusão sobre quem deve fazer cada atividade, qual é o prazo e em que situação a tarefa se encontra.
 
