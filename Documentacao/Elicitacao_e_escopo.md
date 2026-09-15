@@ -110,3 +110,5 @@ Critérios de qualidade, restrições e atributos do sistema:
 | **RT02** | Cadastro das equipes e gestores |
 | **RT03** | Migração de demandas de planilhas ou sistemas antigos |
 | **RT04** | Orientação básica dos usuários antes da implantação |
+
+[Voltar ao README](../readme.md)
