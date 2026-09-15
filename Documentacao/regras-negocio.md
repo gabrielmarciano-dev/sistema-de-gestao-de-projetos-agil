@@ -1,6 +1,6 @@
 # Regras de Negócio (RN)
 
-[Voltar ao README](../readme.md)
+
 
 Políticas e normas do domínio que definem ou restringem o comportamento do negócio, independentemente da implementação técnica.
 
@@ -44,3 +44,4 @@ Políticas e normas do domínio que definem ou restringem o comportamento do neg
 | RN02 | Cancelamento gratuito até 24h antes | Administrador |
 | RN03 | Cadastro ativo obrigatório para marcação online | Recepcionista |
 
+[Voltar ao README](../readme.md)
