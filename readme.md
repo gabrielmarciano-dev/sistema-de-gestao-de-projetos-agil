@@ -194,7 +194,13 @@ A documentação do projeto está organizada na pasta `Documentacao`.
 | [Revisão e Checklist](./Documentacao/revisao-e-checklist.md)             | Critérios de revisão e checklists de qualidade das entregas. |
 ---
 
+## Slide
 
+Abaixo está disponível um slide resumido
+
+[**Acessar Slide→**](https://canva.link/flowops)
+
+---
 ## Formulário
 
 O projeto também possui um formulário.
@@ -205,7 +211,7 @@ O projeto também possui um formulário.
 
 ## Mapa Mental
 
-O projeto também possui um mapa mental com informações complementares.
+Mapa mental com informações complementares.
 
 [**Acessar mapa mental no Miro →**](https://miro.com/welcomeonboard/L1RRcGI5cnpibitWb3NEdS9acVR3bmpNSHdkZXFxd3greWpsMkI2NjJYRmFsMjA2UHFqdHVuZUFudEVkYkpPUHRkQXBja1lJRTBOZC80ZXBEOFZiYkt4QjZhR3RWQVVOYno2aTNPUVZXWXcxQXhpTkVPOCtxcE56THNkb3MraWI3QTNVZXpxSXBObEppZ0UxYUMzQnV3PT0hdjE=?share_link_id=704984603715)
 
