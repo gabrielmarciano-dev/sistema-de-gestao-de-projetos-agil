@@ -110,11 +110,9 @@ Requisitos que descrevem **o que o sistema deve permitir que os usuários façam
 | RF07 | Bloqueio de horários pela recepção | Média |
 | RF08 | Relatórios de consultas e faltas | Baixa |
 
-[Voltar ao README](../README.md) · [Próximo: Requisitos de Qualidade](requisitos-qualidade.md)
 
 # Requisitos de Qualidade (RQ)
 
-[Voltar ao README](../README.md)
 
 Requisitos que definem **características mensuráveis e verificáveis** que o sistema deve apresentar, além de funcionar corretamente. Termos vagos (ex: "rápido", "seguro", "fácil de usar") foram eliminados na revisão por pares — ver [Revisão por pares](revisao-e-checklist.md).
 
@@ -178,4 +176,4 @@ Requisitos que definem **características mensuráveis e verificáveis** que o s
 | RQ04 | Confiabilidade | Uptime ≥ 99% |
 | RQ05 | Compatibilidade | Chrome / Edge / Safari |
 
-[Requisitos Funcionais](requisitos-funcionais.md) · [Voltar ao README](../README.md) · [Próximo: Restrições](restricoes.md)
+[Voltar ao README](../readme.md)
